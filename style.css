@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: darkseagreen;
+}
+
+#app {
+    text-align: center;
+ 
+}
+
+input {
+    padding:  10px 20px;
+    margin-right: 5px;
+  
+}
+
+button {
+    padding:  10px 20px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
